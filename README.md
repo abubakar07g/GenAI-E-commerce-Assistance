@@ -138,7 +138,7 @@ streamlit run app.py
 
 ## 📽️ Demo Preview
 
-> 🎥 [Video Link Here](https://drive.google.com/file/d/1CsO-u2i8hIzfO2zv-Ng2o839dvQZB61n/view?usp=sharing)  
+> 🎥 [Video Link Here](https://drive.google.com/file/d/1VFAO0V8_lWnc2SHd_czo3cxNH0VqYYge/view?usp=sharing)  
 > 📂 [GitHub Repo Link](https://github.com/abubakar07g/GenAI-E-commerce-Assistance)
 
 ---
